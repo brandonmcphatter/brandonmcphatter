@@ -24,11 +24,11 @@ management skills to technology projects.
   
 📫 How to reach me: ... **[Email / LinkedIn]**
   
- <a href="https://mail.google.com/mail/u/0/?fs=1&to=brandonmcphatter1@gmail.com">
+ <a href="https://mail.google.com/mail/u/0/?fs=1&to=brandonmcphatter1@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
  </a>
  
- <a href="https://www.linkedin.com/in/brandonmcphatter/">
+ <a href="https://www.linkedin.com/in/brandonmcphatter/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
  </a> 
 
