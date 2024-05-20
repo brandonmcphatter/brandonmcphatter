@@ -19,21 +19,18 @@ management skills to technology projects.
 🤔 I’m looking for help with ... **[Jobs!]**
   
 💬 Ask me about ... **[Army life, the Lakers 🥲, how cool Tailwind is]**
+
+⚡ Fun fact: ... **[I am left handed, and Color blind ... not 'fun' but hey 😅]**
   
 📫 How to reach me: ... **[Email / LinkedIn]**
   
-⚡ Fun fact: ... **[I am left handed, and Color blind ... not 'fun' but hey 😅]**
-
-#
-
-<p align="left">
  <a href="mailto:brandonmcphatter1@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
  </a>
  <a href="https://www.linkedin.com/in/brandonmcphatter/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
  </a> 
-</p>
+
 
 
 ## Languages / Frameworks 🛠️
