@@ -3,7 +3,7 @@
 
  `Full Stack Web Developer` 
 
-### Hi there 👋
+### Hello, and Welcome! 👋🏾
 
 I am a web Developer with under 2 years of experience, proficient in front end and back end technologies. Demonstrated expertise in developing responsive, user-centric applications using Tailwind and Bootstrap frameworks. A combat veteran, transitioned from audio engineering and humanresources roles, bringing strong organizational and personnel
 management skills to technology projects.
@@ -24,6 +24,9 @@ management skills to technology projects.
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
+<br>
+
+#
           
 
 <!--
