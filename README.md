@@ -10,13 +10,13 @@ management skills to technology projects.
 
 <br />
 
-- 🔭 I’m currently working on **[an Employee Time Tracking App]**
+- 🔭 I’m currently working on ... **[an Employee Time Tracking App]**
 - 🌱 I’m currently learning ... **[MongoDB]**
-- 👯 I’m looking to collaborate on **[Full Stack Projects]**
+- 👯 I’m looking to collaborate on ... **[Full Stack Projects]**
 - 🤔 I’m looking for help with ... **[Jobs!]**
-- 💬 Ask me about **[Army life, the Lakers 🥲, how cool Tailwind is]**
-- 📫 How to reach me: **[Email / LinkedIn]**
-- ⚡ Fun fact: **[I am left handed, and Color blind ... not 'fun' but hey 😅]**
+- 💬 Ask me about ... **[Army life, the Lakers 🥲, how cool Tailwind is]**
+- 📫 How to reach me: ... **[Email / LinkedIn]**
+- ⚡ Fun fact: ... **[I am left handed, and Color blind ... not 'fun' but hey 😅]**
 
 ## Languages / Frameworks 🛠️
 
