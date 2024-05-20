@@ -24,7 +24,7 @@ management skills to technology projects.
   
 📫 How to reach me: ... **[Email / LinkedIn]**
   
- <a href=["mailto:brandonmcphatter1@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=brandonmcphatter1@gmail.com&tf=cm)">
+ <a href="https://mail.google.com/mail/u/0/?fs=1&to=brandonmcphatter1@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
  </a>
  
