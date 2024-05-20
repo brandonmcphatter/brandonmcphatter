@@ -1,7 +1,7 @@
 
 # Brandon McPhatter  
 
-** `Full Stack Web Developer` **
+ `Full Stack Web Developer` 
 
 ### Hi there 👋
 
