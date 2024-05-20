@@ -1,5 +1,5 @@
 
-# Brandon McPhatter  
+# Brandon McPhatter 👨🏾‍💻
 
  `Full Stack Web Developer` 
 
@@ -8,7 +8,17 @@
 I am a web Developer with under 2 years of experience, proficient in front end and back end technologies. Demonstrated expertise in developing responsive, user-centric applications using Tailwind and Bootstrap frameworks. A combat veteran, transitioned from audio engineering and humanresources roles, bringing strong organizational and personnel
 management skills to technology projects.
 
-## Languages
+<br />
+
+- 🔭 I’m currently working on **[an Employee Time Tracking App]**
+- 🌱 I’m currently learning ... **[MongoDB]**
+- 👯 I’m looking to collaborate on **[Full Stack Projects]**
+- 🤔 I’m looking for help with ... **[Jobs!]**
+- 💬 Ask me about **[Army life, the Lakers 🥲, how cool Tailwind is]**
+- 📫 How to reach me: **[Email / LinkedIn]**
+- ⚡ Fun fact: **[I am left handed, and Color blind ... not 'fun' but hey 😅]**
+
+## Languages / Frameworks 🛠️
 
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -36,12 +46,5 @@ management skills to technology projects.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
