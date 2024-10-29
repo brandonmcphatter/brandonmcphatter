@@ -5,8 +5,7 @@
 
 ### 👋🏾 Hello, and Welcome! 
 
-I am a web Developer with under 2 years of experience, proficient in front end and back end technologies. Demonstrated expertise in developing responsive, user-centric applications using Tailwind and Bootstrap frameworks. A combat veteran, transitioned from audio engineering and human resources roles, bringing strong organizational and personnel
-management skills to technology projects.
+I am a web Developer with 2 years of experience, proficient in front end and back end technologies. Demonstrating expertise in developing responsive, user-centric applications - styled using Tailwind and Bootstrap frameworks. A combat veteran, transitioned from audio engineering and human resources roles, bringing strong organizational and personnel skills to technology projects.
 
 <br />
 
