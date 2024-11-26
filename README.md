@@ -11,7 +11,7 @@ I am a web Developer with 2 years of experience, proficient in front end and bac
 
 🔭 I’m currently working on ... **[Hoop Hub]**
   
-🌱 I’m currently learning ... **[MongoDB]**
+🌱 I’m currently learning ... **[TypeScript]**
   
 👯 I’m looking to collaborate on ... **[Full Stack Projects]**
   
